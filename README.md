@@ -10,19 +10,19 @@ networks_assignment.csv
 General Instructions : Use the same font and font size for all graphs.
 Instructions:
 
-a. For Bar Graph:
+## a. For Bar Graph:
 
 Create a horizontal stacked bar chart
 Transform 1 into “Yes” and 0 into “No”
 Follow the plot specification for bar plot
 
-b. For Sankey Diagram:
+## b. For Sankey Diagram:
 
 Create a Sankey Diagram that connects ('PS', 'OMP', 'CNP', 'NRP', 'NMCCC', 'PEC', 'NCDM', 'RGS') to the LABELS to ('Reg', 'Aca', 'Oth')
 Follow the Path Specifications
 
 
-C. Network Graph
+## C. Network Graph
 
 Create the network graph
 D,F,I,N,S should created as a pentagram located at the center of the graph showing connection with each other.
